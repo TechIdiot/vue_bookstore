@@ -47,6 +47,7 @@ npm run build
 # bookstore_back
 
 + 需安装sqlite依赖
++ 换MySQL
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
